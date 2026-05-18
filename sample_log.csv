@@ -1,0 +1,5 @@
+time,device,event
+22:32,laptop,login from unknown ip
+22:35,bank server,transfer initiated
+22:37,phone,gps near atm
+22:40,cctv,person detected near atm

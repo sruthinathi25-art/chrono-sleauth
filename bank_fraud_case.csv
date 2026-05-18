@@ -1,0 +1,6 @@
+time,device,event
+21:10,laptop,login attempt from suspicious IP
+21:12,bank server,large money transfer initiated
+21:14,phone,otp received
+21:16,atm machine,cash withdrawal detected
+21:18,cctv,person wearing hoodie near atm

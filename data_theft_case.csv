@@ -1,0 +1,6 @@
+time,device,event
+18:05,office computer,external usb connected
+18:07,office computer,confidential files copied
+18:09,network server,large data upload detected
+18:12,employee phone,location outside office building
+18:15,security camera,employee leaving building
